@@ -3,41 +3,17 @@
   "server" : "https://i.verbaria.org/",
   "project" : "consulo**",
   "projectVersion" : "master",
-  "generatedAt" : "2026-06-22T18:44:36.861906736Z",
+  "generatedAt" : "2026-06-23T20:52:59.682441278Z",
   "documents" : {
     "consulo-git/consulo.git.GitBranchesLocalize" : {
       "source" : {
         "revision" : 1
       },
       "translations" : {
-        "en-US" : {
-          "sig" : "501834d39a5fee602aee377b1c738b14",
-          "state" : "Approved",
-          "total" : 28,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "es" : {
-          "sig" : "6eeb9de77cf5943c51373af27c4bf7fe",
-          "state" : "Approved",
-          "total" : 3,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
         "he" : {
           "sig" : "158d5f3d3da485014651ad1723f32706",
           "state" : "Approved",
           "total" : 1,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ko" : {
-          "sig" : "158d5f3d3da485014651ad1723f32706",
-          "state" : "Approved",
-          "total" : 1,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ru" : {
-          "sig" : "501834d39a5fee602aee377b1c738b14",
-          "state" : "Approved",
-          "total" : 28,
           "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
         }
       }
@@ -47,40 +23,10 @@
         "revision" : 1
       },
       "translations" : {
-        "en-US" : {
-          "sig" : "ce3cf8cc84fd8cffbdb8f0d7e3c7fc0c",
-          "state" : "Approved",
-          "total" : 571,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "es" : {
-          "sig" : "0dcc8c061568c29dfeba3549695a29ba",
-          "state" : "Approved",
-          "total" : 139,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
         "he" : {
           "sig" : "2129c054b377bc6eef7602f5b336dadd",
           "state" : "Approved",
           "total" : 1,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ja" : {
-          "sig" : "59af0eec1edb59d77fdb89a64b5669f2",
-          "state" : "Approved",
-          "total" : 17,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ko" : {
-          "sig" : "300d7335344f950cf25381e4eb7868e2",
-          "state" : "Approved",
-          "total" : 5,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ru" : {
-          "sig" : "ce3cf8cc84fd8cffbdb8f0d7e3c7fc0c",
-          "state" : "Approved",
-          "total" : 571,
           "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
         }
       }
@@ -90,40 +36,10 @@
         "revision" : 6
       },
       "translations" : {
-        "en-US" : {
-          "sig" : "9c573d4d7955b3cad3a5726b07e7c094",
-          "state" : "Translated",
-          "total" : 185,
-          "translators" : [ "github <github@no-reply.com>" ]
-        },
-        "es" : {
-          "sig" : "ffd8a02629eac6d2c30eb3180cee094a",
-          "state" : "Approved",
-          "total" : 53,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
         "he" : {
           "sig" : "8e59e7d417018fab1e7c042f93113629",
           "state" : "Approved",
           "total" : 13,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ja" : {
-          "sig" : "fba5d2b632516735580696b322de5f78",
-          "state" : "Approved",
-          "total" : 29,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ko" : {
-          "sig" : "2cec05dedd99367edf84228350ff6566",
-          "state" : "Approved",
-          "total" : 49,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ru" : {
-          "sig" : "91c817a706588afcf30f6937c64f304b",
-          "state" : "Approved",
-          "total" : 185,
           "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
         }
       }
@@ -133,41 +49,11 @@
         "revision" : 6
       },
       "translations" : {
-        "en-US" : {
-          "sig" : "a17050eb89b01a625ca5c7a532445de6",
-          "state" : "Translated",
-          "total" : 444,
-          "translators" : [ "github <github@no-reply.com>" ]
-        },
-        "es" : {
-          "sig" : "c61e2fc0d686914baacf9260d8d2a6af",
-          "state" : "Approved",
-          "total" : 284,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
         "he" : {
           "sig" : "07d950cab19120f4779e30338483bfd7",
           "state" : "Approved",
           "total" : 1,
           "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ja" : {
-          "sig" : "00ba76aa503cb23ffd2c2a09013c338f",
-          "state" : "Approved",
-          "total" : 246,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ko" : {
-          "sig" : "4ec37ca1645f1190518c0136aa01568c",
-          "state" : "Approved",
-          "total" : 296,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ru" : {
-          "sig" : "37ca48cd9d8e6bcc004f6fe145ae319b",
-          "state" : "Approved",
-          "total" : 444,
-          "translators" : [ "Nikolay Yurchenko <nikolay@yurchenko.su>", "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
         }
       }
     },
@@ -176,40 +62,10 @@
         "revision" : 6
       },
       "translations" : {
-        "en-US" : {
-          "sig" : "9f6753a89ccdaf2d64eeaea10ebae823",
-          "state" : "Translated",
-          "total" : 529,
-          "translators" : [ "github <github@no-reply.com>" ]
-        },
-        "es" : {
-          "sig" : "1624a328efc129757a663cc781e20504",
-          "state" : "Approved",
-          "total" : 392,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
         "he" : {
           "sig" : "34871a6e8fe24aac2a947b8a3c34e398",
           "state" : "Approved",
           "total" : 2,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ja" : {
-          "sig" : "a2574bdcabb10fda10e55816dc931452",
-          "state" : "Approved",
-          "total" : 249,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ko" : {
-          "sig" : "62aa01d894eee2d623a7baeb7003e42d",
-          "state" : "Approved",
-          "total" : 270,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ru" : {
-          "sig" : "68656f6834a13284e329692e05810052",
-          "state" : "Approved",
-          "total" : 529,
           "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
         }
       }
@@ -219,40 +75,10 @@
         "revision" : 6
       },
       "translations" : {
-        "en-US" : {
-          "sig" : "e720526b717c1b7265b8f5719f9a920a",
-          "state" : "Translated",
-          "total" : 1180,
-          "translators" : [ "github <github@no-reply.com>" ]
-        },
-        "es" : {
-          "sig" : "9970745a2216159139aeb173cb8269bc",
-          "state" : "Approved",
-          "total" : 913,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
         "he" : {
           "sig" : "220b0fda18c3bddd88d9a253eefaaa6d",
           "state" : "Approved",
           "total" : 833,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ja" : {
-          "sig" : "3769bb6fb01a2fe375afb6a73a1ae128",
-          "state" : "Approved",
-          "total" : 620,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ko" : {
-          "sig" : "fda6add6c8516e2c74c886ee9eeb13be",
-          "state" : "Approved",
-          "total" : 907,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ru" : {
-          "sig" : "87563e846cae273e9e0b078a299ef9df",
-          "state" : "Approved",
-          "total" : 1180,
           "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
         }
       }
@@ -262,40 +88,10 @@
         "revision" : 6
       },
       "translations" : {
-        "en-US" : {
-          "sig" : "50e4ab5d623df05434da90f7a8fb59a6",
-          "state" : "Translated",
-          "total" : 26,
-          "translators" : [ "github <github@no-reply.com>" ]
-        },
-        "es" : {
-          "sig" : "4a09cc683436b10bb66c5c609594aece",
-          "state" : "Approved",
-          "total" : 16,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
         "he" : {
           "sig" : "f5ac39eaaa7e4d877841227c0c64761b",
           "state" : "Approved",
           "total" : 3,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ja" : {
-          "sig" : "7f6d9af2fb8ff2e38f396f7101c047df",
-          "state" : "Approved",
-          "total" : 7,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ko" : {
-          "sig" : "92ab8a72ab7b2870a4ab4e7f8ac814db",
-          "state" : "Approved",
-          "total" : 12,
-          "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
-        },
-        "ru" : {
-          "sig" : "c6986d295ea89095a22ac35ac860a58f",
-          "state" : "Approved",
-          "total" : 26,
           "translators" : [ "Valery Semenchuk <vistall.valeriy@gmail.com>" ]
         }
       }
