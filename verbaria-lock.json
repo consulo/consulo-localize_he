@@ -3,12 +3,18 @@
   "project" : "consulo**",
   "projectVersion" : "master",
   "sourceLocale" : "en-US",
-  "generatedAt" : "2026-06-28T14:54:17.341426900Z",
+  "generatedAt" : "2026-06-28T16:09:00.622848256Z",
   "documents" : {
     "consulo-apache-ant/consulo.apache.ant.impl.ApacheAntImplLocalize" : {
       "source" : {
         "revision" : 1,
         "sig" : "869c6487b6106b8a7d21091c18795722"
+      }
+    },
+    "consulo-apache-velocity/consulo.apache.velocity.VelocityLocalize" : {
+      "source" : {
+        "revision" : 1,
+        "sig" : "74df0a619d6f5983c7f63f8e03a95dbb"
       }
     },
     "consulo-csharp/consulo.csharp.api.CSharpLocalize" : {
@@ -801,8 +807,8 @@
     },
     "consulo/consulo.versionControlSystem.VcsLocalize" : {
       "source" : {
-        "revision" : 6,
-        "sig" : "d480b1d079e09a6d67ce8253e9768b43"
+        "revision" : 7,
+        "sig" : "9fae41bcce96c7ee5c76ebdd8ef308cf"
       }
     },
     "consulo/consulo.versionControlSystem.distributed.DistributedVcsLocalize" : {
