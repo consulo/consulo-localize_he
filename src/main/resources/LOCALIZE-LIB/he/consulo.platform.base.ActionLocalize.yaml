@@ -75,7 +75,7 @@ action.ChangeSplitOrientation.text:
 action.ChangeTemplateDataLanguage.text:
     text: שנה תבנית נתונים Language
 action.ChangeToThisFileTypeAction.description:
-    text: Override קובץ סוג ל ''{0}''
+    text: "Override קובץ סוג ל ''{0}''"
 action.ChangeTypeSignature.description:
     text: שנה return סוג של מתודה, שדה, פרמטר, variable, או מחלקה סוג arguments ו correct הכל references
 action.ChangeTypeSignature.text:
@@ -853,7 +853,7 @@ action.OverrideFileTypeAction.description:
 action.OverrideFileTypeAction.text:
     text: Override קובץ סוג
 action.OverrideFileTypeAction.verbose.description:
-    text: Treat קובץ ''{0}''{1,choice,0#|1# (ו {1} more קבצים)} כקובץ של different קובץ סוג
+    text: "Treat קובץ ''{0}''{1,choice,0#|1# (ו {1} more קבצים)} כקובץ של different קובץ סוג"
 action.OverrideMethods.description:
     text: Override base מחלקה מתודות בנוכחי מחלקה
 action.OverrideMethods.text:
@@ -1009,7 +1009,7 @@ action.ReverteOverrideFileTypeAction.description:
 action.ReverteOverrideFileTypeAction.text:
     text: שחזר קובץ סוג Override
 action.ReverteOverrideFileTypeAction.verbose.description:
-    text: בטל "Override קובץ סוג" פעולה ו שחזר old קובץ סוג עבור קובץ ''{0}''{1,choice,0#|1# (ו {1} more קבצים)}
+    text: "בטל \"Override קובץ סוג\" פעולה ו שחזר old קובץ סוג עבור קובץ ''{0}''{1,choice,0#|1# (ו {1} more קבצים)}"
 action.RunAnything.text:
     text: הרץ Anything
 action.RunConfiguration.description:
@@ -1229,7 +1229,7 @@ action.Synchronize.text:
 action.SynchronizeCurrentFile.text:
     text: Reload מ Disk
 action.TabList.description:
-    text: הצג dropdown עם רשימה של לשוניות that don't fit פעיל screen ב single-row לשונית פריסה
+    text: "הצג dropdown עם רשימה של לשוניות that don't fit פעיל screen ב single-row לשונית פריסה"
 action.TabList.text:
     text: הצג Hidden לשוניות
 action.TechnicalSupport.description:
@@ -1393,7 +1393,7 @@ action.WhatsNewAction.description:
 action.WhatsNewAction.text:
     text: _What חדש
 action.editRunConfigurations.description:
-    text: פתח 'ערוך הרצה/דיבוג configurations' תיבת דו-שיח
+    text: "פתח 'ערוך הרצה/דיבוג configurations' תיבת דו-שיח"
 action.editRunConfigurations.text:
     text: _ערוך תצורות…
 action.openAssertEqualsDiff.text:
@@ -1551,7 +1551,7 @@ group.OpenProjectGroup.text:
 group.OpenProjectWindows.text:
     text: פתח פרויקט חלונות
 group.OverrideFileTypeAction.fromNamedPlugin:
-    text: מ ''{0}'' plugin
+    text: "מ ''{0}'' plugin"
 group.OverrideFileTypeAction.title:
     text: בחר קובץ סוג
 group.PairFileActions.text:
